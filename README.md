@@ -1,0 +1,2 @@
+# IITB_GUVI_HCL
+GENAI Workshop
